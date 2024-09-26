@@ -49,6 +49,12 @@ Clone the repository with the following command:
 git clone https://github.com/horizon-ui/shadcn-nextjs-boilerplate.git
 ```
 
+Jump into the directory just created
+
+```bash
+cd shadcn-nextjs-boilerplate
+```
+
 Run in the terminal this command:
 
 ```
